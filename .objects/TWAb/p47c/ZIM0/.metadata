@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome: ACME System 1 - Log In",
+  "Type": "Screen",
+  "Id": "ZIM0G_FFbEaVbzAE1EEmLg",
+  "Reference": "iGcJKXBYXkaIk4wrziPUuQ/ZIM0G_FFbEaVbzAE1EEmLg",
+  "ParentRef": "iGcJKXBYXkaIk4wrziPUuQ/p47c38_Z6kyfBNG6Z_F9Sw",
+  "Created": "2024-07-09T19:04:38.518723Z",
+  "Updated": "2024-07-09T19:04:38.518723Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
